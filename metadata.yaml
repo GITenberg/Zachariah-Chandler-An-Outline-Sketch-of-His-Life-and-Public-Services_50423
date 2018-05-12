@@ -1,4 +1,8 @@
 _repo: Zachariah-Chandler-An-Outline-Sketch-of-His-Life-and-Public-Services_50423
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50423-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Post, Detroit
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45898'
     url: http://www.gutenberg.org/2009/agents/45898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50423#Zachariah-Chandler-An-Outline-Sketch-of-His-Life-and-Public-Services
 gutenberg_issued: '2015-11-10'
 gutenberg_type: Text
 identifiers:
